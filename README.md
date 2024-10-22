@@ -7,9 +7,9 @@ Hello, I'm Dx4! I'm a budding programmer who is currently exploring various prog
 - **Name:** Dx4
 - **Location:** Indonesia
 - **Programming Skills:** Currently learning various programming languages, including:
-  - Python
   - Java
   - C++
+  - Python
 - **Special Interests:** I am particularly fascinated by the world of hacking and enjoy delving into information security.
 
 ## Recent Projects
