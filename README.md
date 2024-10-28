@@ -7,9 +7,7 @@ Hello, I'm Dx4! I'm a budding programmer who is currently exploring various prog
 - **Name:** Dx4
 - **Location:** Indonesia
 - **Programming Skills:** Currently learning various programming languages, including:
-  - Java
-  - C++
-  - Python
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DX4GREY&layout=compact&langs_count=8&theme=nightowl"/>
 - **Special Interests:** I am particularly fascinated by the world of hacking and enjoy delving into information security.
 
 ## Recent Projects
@@ -24,8 +22,7 @@ Thank you for visiting my profile!
 
 
 <p align="left">
-<a href="https://github.com/Dvaalmeyda">
+<a href="https://github.com/DX4GREY">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DX4GREY&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DX4GREY&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
