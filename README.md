@@ -22,5 +22,10 @@ If you'd like to get in touch or discuss, you can find me on [GitHub](https://gi
 
 Thank you for visiting my profile!
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=DX4GREY)
 
+<p align="left">
+<a href="https://github.com/Dvaalmeyda">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DX4GREY&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DX4GREY&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+</p>
