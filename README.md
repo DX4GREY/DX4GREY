@@ -10,7 +10,6 @@ Hi, I'm Dx4 — a budding programmer from Indonesia who's passionate about tech 
 
 🎯 Interests: InfoSec, ethical hacking, and exploring the deeper side of tech
 
-📊
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DX4GREY&layout=compact&langs_count=8&theme=nightowl"/>
 
 
