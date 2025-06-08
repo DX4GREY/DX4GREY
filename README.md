@@ -1,6 +1,7 @@
-About Dx4
+[![Years Badge](https://badges.pufler.dev/years/DX4GREY)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/DX4GREY)](https://badges.pufler.dev)
 
-Hi, I'm Dx4 — a budding programmer from Indonesia who's passionate about tech and the hacking world.
+### 🙋‍♂️ Hey there! I am using GitHub.
 
 🔧 About Me
 
@@ -10,7 +11,8 @@ Hi, I'm Dx4 — a budding programmer from Indonesia who's passionate about tech 
 
 🎯 Interests: InfoSec, ethical hacking, and exploring the deeper side of tech
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DX4GREY&layout=compact&langs_count=8&theme=nightowl"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DX4GREY&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=DX4GREY&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
 
 
 🚀 Projects
@@ -19,11 +21,4 @@ Right now, I’m focusing on small personal projects to sharpen my skills and ex
 
 📬 Let's Connect
 
-Want to collaborate or just say hi?
-Find me on GitHub.
-
-<p align="left">
-  <a href="https://github.com/DX4GREY">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DX4GREY&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+Want to collaborate or just say hi? [My Telegram](https://t.me/Dx4Grey)
