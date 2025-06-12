@@ -7,9 +7,7 @@
 
 🌍 Location: Indonesia
 
-💻 Currently Learning: Multiple programming languages
-
-🎯 Interests: InfoSec, ethical hacking, and exploring the deeper side of tech
+🎯 Interests: Hacking, Software Developer, Version Control and Linux Kernel
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DX4GREY&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=transparent)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=DX4GREY&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=transparent)
