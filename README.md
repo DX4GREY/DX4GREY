@@ -1,6 +1,3 @@
-[![Years Badge](https://badges.pufler.dev/years/DX4GREY)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/DX4GREY)](https://badges.pufler.dev)
-
 ### 🙋‍♂️ Hey there! I am using GitHub.
 
 🔧 About Me
