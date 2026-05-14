@@ -1,4 +1,4 @@
-### 🙋‍♂️ Hey there! I am using GitHub.
+### 🙋‍♂️ Hi, I'm DX4GREY! Welcome to my GitHub profile.
 
 🔧 About Me
 
@@ -6,8 +6,7 @@
 
 🎯 Interests: Hacking, Software Developer, Version Control and Linux Kernel
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DX4GREY&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=transparent)
-
+![Dx4's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DX4GREY&show_icons=true&theme=radical)
 
 🚀 Projects
 
