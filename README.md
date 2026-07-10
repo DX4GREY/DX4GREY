@@ -1,26 +1,113 @@
-### 🙋‍♂️ Hi, I'm DX4GREY! Welcome to my GitHub profile.
+👋 Hi, I'm DX4GREY
 
-🔧 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Software+Developer;Linux+Enthusiast;Kernel+Explorer;Security+Researcher" />
+</p><p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DX4GREY&show_icons=true&theme=radical" />
+</p>
 
-🌍 Location: Indonesia
+---
 
-🎯 Interests: Hacking, Software Developer, Version Control and Linux Kernel
+🧑‍💻 About Me
 
-![Dx4's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DX4GREY&show_icons=true&theme=radical)
+name: DX4GREY
+location: Indonesia
+role: Software Developer
+interests:
+  - Linux Kernel Development
+  - Cyber Security & Research
+  - Open Source Projects
+  - Embedded Systems
+  - Version Control
 
-🚀 Projects
+I enjoy exploring how things work under the hood — from building applications, experimenting with Linux systems, developing embedded projects, to learning about low-level technologies.
 
-Right now, I’m focusing on small personal projects to sharpen my skills and explore new tech stacks.
+Currently, I'm focusing on personal projects to improve my skills, explore new technologies, and contribute to open-source communities.
 
-📬 Let's Connect
+---
 
-Want to collaborate or just say hi? [My Telegram](https://t.me/Dx4Grey)
+🚀 Featured Interests
 
-💳 Donate
+🔹 Software Development
 
-BTC: 1EnqDkxMUaqVtsvcdxDTGCp4AzoqvzzXR8
+- Building applications with modern frameworks
+- Backend & frontend development
+- Automation tools and utilities
 
-ETH: 0x47f8d3eCF145F933b798D454881e0f04bC73bE54
+🔹 Linux & Kernel
 
-### 🖥️ My Programming Framework
-<img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,docker,fastapi,firebase,nodejs,python,javascript,c,cpp,java,mysql,flask,flutter,go,linux,ps,powershell,py,redis,regex,rust,sqlite,react,bootstrap,html,css,vscode,github,figma,git&perline=7"/>
+- Linux customization
+- Kernel development experiments
+- System-level programming
+
+🔹 Embedded & IoT
+
+- Arduino / ESP projects
+- Hardware experimentation
+- Microcontroller programming
+
+🔹 Security Research
+
+- Web security concepts
+- Network analysis
+- Learning defensive security practices
+
+---
+
+🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,docker,fastapi,firebase,nodejs,python,javascript,c,cpp,java,mysql,flask,flutter,go,linux,powershell,redis,regex,rust,sqlite,react,bootstrap,html,css,vscode,github,figma,git&perline=7"/>
+</p>
+
+---
+
+📌 Projects
+
+Here are some projects I'm currently working on:
+
+- 🔧 Personal developer tools
+- 🐧 Linux-based experiments
+- 📱 Android applications
+- ⚡ Embedded system projects
+- 🌐 Web applications
+
+More projects coming soon...
+
+---
+
+📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DX4GREY&theme=radical" />
+</p>
+
+---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://t.me/Dx4Grey">
+<img src="https://img.shields.io/badge/Telegram-Dx4Grey-blue?style=for-the-badge&logo=telegram">
+</a></p>Feel free to reach out for collaboration, discussions, or sharing ideas.
+
+---
+
+💳 Support My Work
+
+If my projects help you or you want to support my development journey:
+
+Bitcoin
+
+1EnqDkxMUaqVtsvcdxDTGCp4AzoqvzzXR8
+
+Ethereum
+
+0x47f8d3eCF145F933b798D454881e0f04bC73bE54
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DX4GREY&color=blue&style=flat-square" />
+</p><p align="center">
+  <i>"Keep learning. Keep building. Keep exploring."</i>
+</p>
