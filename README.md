@@ -96,13 +96,9 @@ More projects coming soon...
 
 If my projects help you or you want to support my development journey:
 
-Bitcoin
-
-1EnqDkxMUaqVtsvcdxDTGCp4AzoqvzzXR8
-
-Ethereum
-
-0x47f8d3eCF145F933b798D454881e0f04bC73bE54
+Bitcoin: 1EnqDkxMUaqVtsvcdxDTGCp4AzoqvzzXR8
+Ethereum: 0x47f8d3eCF145F933b798D454881e0f04bC73bE54
+PayPal: https://www.paypal.me/dx4grey
 
 ---
 
