@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Software+Developer;Linux+Enthusiast;Kernel+Explorer;Security+Researcher" />
 </p><p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DX4GREY&show_icons=true&theme=radical" />
+  <img src="https://gitforge.ai.studio/api/card/profile?username=DX4GREY&theme=gitskins&animate=wave&layout=cyber&github_logo=true" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ More projects coming soon...
 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DX4GREY&theme=radical" />
+  <img src="https://gitforge.ai.studio/api/card/contributions?username=DX4GREY&theme=gitskins&animate=fade&layout=cyber&github_logo=true" />
 </p>
 
 ---
