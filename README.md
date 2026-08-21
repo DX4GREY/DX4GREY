@@ -1,4 +1,4 @@
-👋 Hi, I'm DX4GREY
+👋 Hello, I'm DX4GREY
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Software+Developer;Linux+Enthusiast;Kernel+Explorer;Security+Researcher" />
