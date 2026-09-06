@@ -73,15 +73,15 @@ document, test, and share projects that are useful in the real world.
   <img src="https://skillicons.dev/icons?i=cpp,python,cmake,linux,bash,git,github,arduino,android,vscode&theme=dark" alt="Technology stack" />
 </p>
 
-## GitHub stats
+## GitHub stats & activity
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=DX4GREY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99&rank_icon=github" width="100%" alt="GitHub statistics" />
+      <img src="https://github-stats-extended.vercel.app/api?username=DX4GREY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99" width="100%" alt="GitHub statistics" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DX4GREY&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" width="100%" alt="Most used languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DX4GREY&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" width="100%" alt="Most used languages" />
     </td>
   </tr>
 </table>
@@ -91,7 +91,7 @@ document, test, and share projects that are useful in the real world.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DX4GREY&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DX4GREY&theme=github_dark" width="100%" alt="GitHub profile details and contribution activity" />
 </p>
 
 ## Support open source
