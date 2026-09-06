@@ -1,549 +1,125 @@
-<!--
-  DX4GREY — Animated GitHub Profile README
-  Keep the image URLs on HTTPS so GitHub can render them through its image proxy.
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:003b32,70:00ff99,100:0d1117&height=210&section=header&text=DX4GREY&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Systems%20%7C%20Embedded%20%7C%20Security%20Research&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="DX4GREY header" />
+</p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00FF99,50:00D4FF,100:7B2FFF&text=DX4GREY&fontColor=0D1117&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Direct%20Xploit%204%20Alphabet&descAlignY=60&descSize=18"
-    alt="DX4GREY animated header"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Software+Developer;Linux+Enthusiast;Kernel+Explorer;Embedded+Systems+Builder;Responsible+Security+Researcher" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DX4GREY">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=00FF99&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Backend+Developer+%7C+System+Tweaker;Linux+%26+Kernel+Explorer;Embedded+Systems+Builder;Defensive+Security+Researcher;Keep+learning.+Keep+building.+Keep+exploring."
-      alt="Animated roles: Backend Developer, Linux and Kernel Explorer, Embedded Systems Builder, and Defensive Security Researcher"
-    />
+    <img src="https://komarev.com/ghpvc/?username=DX4GREY&color=00ff99&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/DX4GREY?tab=followers">
-    <img src="https://img.shields.io/github/followers/DX4GREY?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=00C896" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/DX4GREY?style=flat-square&color=00ff99&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/DX4GREY?tab=repositories">
-    <img src="https://img.shields.io/github/stars/DX4GREY?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&labelColor=0D1117&color=00B8FF" alt="GitHub stars" />
+  <a href="https://github.com/sponsors/DX4GREY">
+    <img src="https://img.shields.io/badge/SPONSOR-00ff99?style=flat-square&labelColor=0d1117&logo=github&logoColor=00ff99" alt="Sponsor DX4GREY" />
   </a>
-  <a href="https://t.me/Dx4Grey">
-    <img src="https://img.shields.io/badge/Telegram-Dx4Grey-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @Dx4Grey" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DX4GREY&style=flat-square&color=00C896&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## `> whoami`
+## `whoami`
 
 ```yaml
-alias: DX4GREY
+name: DX4GREY
 location: Indonesia
-role: Backend / Software Developer
-current_mode: Building, breaking, understanding, improving
+role: Software Developer
 
 interests:
-  - Linux internals and kernel experiments
-  - Embedded systems and RF hardware
-  - Backend, web, and developer tooling
-  - Defensive security research
-  - Open-source collaboration
+  - Linux internals and systems programming
+  - C++ development and developer tools
+  - Embedded systems and ESP32 projects
+  - Responsible security research
+  - Open-source software
+
+currently_exploring:
+  - Building reliable tools that stay close to the system
+  - Hardware and radio experimentation
+  - Making complex technology easier to understand
 ```
 
-I like understanding systems below the surface: tracing how Linux behaves, turning hardware ideas into embedded tools, and building software that solves real problems. Most of my work starts as an experiment and grows through testing, iteration, and open-source learning.
+I enjoy exploring how things work under the hood, from Linux processes and
+low-level tooling to embedded hardware and open-source software. I build,
+document, test, and share projects that are useful in the real world.
 
-<details>
-  <summary><b>⚡ What I'm exploring right now</b></summary>
-  <br />
+## Featured projects
 
-- Reliable Linux system tooling with safe defaults
-- ESP32-S3 projects, radio analysis, and hardware diagnostics
-- Android kernel behavior, camera stability, and storage health
-- Better developer identity and open-source presentation tools
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DX4GREY/nizaw">Nizaw</a></h3>
+      <p>Read-only Linux system inspection framework for understanding processes, system state, and runtime information.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-20-00ff99?style=flat-square&labelColor=0d1117" alt="C++20" />
+        <img src="https://img.shields.io/badge/Linux-native-00ff99?style=flat-square&labelColor=0d1117" alt="Linux native" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DX4GREY/esp32_rfsuite">ESP32 RF Suite</a></h3>
+      <p>ESP32-S3 toolkit for legal 2.4 GHz radio monitoring, channel analysis, and embedded experimentation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32--S3-00ff99?style=flat-square&labelColor=0d1117" alt="ESP32-S3" />
+        <img src="https://img.shields.io/badge/Embedded-C%2B%2B-00ff99?style=flat-square&labelColor=0d1117" alt="Embedded C++" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-</details>
+## Tech stack
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,cmake,linux,bash,git,github,arduino,android,vscode&theme=dark" alt="Technology stack" />
+</p>
 
-## `> github --overview`
+## GitHub stats
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=DX4GREY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99&rank_icon=github" width="100%" alt="GitHub statistics" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DX4GREY&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" width="100%" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DX4GREY&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="70%" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DX4GREY&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+</p>
+
+## Support open source
+
+If my projects help you, consider supporting their development. Your support
+helps fund testing, documentation, hardware experiments, and future releases.
+
+<p align="center">
+  <a href="https://github.com/sponsors/DX4GREY">
+    <img src="https://img.shields.io/badge/Become_a_GitHub_Sponsor-00ff99?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=161b22" alt="Become a GitHub Sponsor" />
+  </a>
+</p>
+
+## Connect
 
 <p align="center">
   <a href="https://github.com/DX4GREY">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=DX4GREY&show_icons=true&include_all_commits=true&hide_border=true&title_color=00FF99&text_color=C9D1D9&icon_color=00B8FF&bg_color=0D1117"
-      alt="DX4GREY GitHub statistics"
-    />
-  </a>
-</p>
-
----
-
-## `> projects --featured`
-
-<p align="center">
-  <a href="https://github.com/DX4GREY/nizaw">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DX4GREY&repo=nizaw&theme=transparent&hide_border=true&title_color=00FF99&text_color=C9D1D9&icon_color=00B8FF&bg_color=0D1117"
-      alt="Nizaw repository card"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DX4GREY/esp32_rfsuite">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DX4GREY&repo=esp32_rfsuite&theme=transparent&hide_border=true&title_color=00FF99&text_color=C9D1D9&icon_color=00B8FF&bg_color=0D1117"
-      alt="ESP32 RF Suite repository card"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DX4GREY/SUMOBOT">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DX4GREY&repo=SUMOBOT&theme=transparent&hide_border=true&title_color=00FF99&text_color=C9D1D9&icon_color=00B8FF&bg_color=0D1117"
-      alt="SUMOBOT repository card"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DX4GREY/ufs-health">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DX4GREY&repo=ufs-health&theme=transparent&hide_border=true&title_color=00FF99&text_color=C9D1D9&icon_color=00B8FF&bg_color=0D1117"
-      alt="UFS Health repository card"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DX4GREY?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FF99" alt="View all repositories" />
-  </a>
-</p>
-
----
-
-## `> toolbox --expand`
-
-<details open>
-  <summary><b>⌨️ Languages & system programming</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,go,rust,bash,powershell&perline=10" alt="Programming languages" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🌐 Backend, web & data</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,bootstrap,html,css,mysql,sqlite,redis,firebase&perline=8" alt="Backend, web, and data technologies" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🔩 Embedded, platforms & tools</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,linux,docker,cloudflare,git,github,vscode,figma&perline=9" alt="Embedded platforms and development tools" />
-  </p>
-</details>
-
----
-
-## `> github --activity`
-
-<p align="center">
-  <a href="https://github.com/DX4GREY">
-    <img
-      width="100%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=DX4GREY&bg_color=0D1117&color=C9D1D9&title_color=00FF99&line=00B8FF&point=7B2FFF&area_color=00B8FF&area=true&hide_border=true&radius=12"
-      alt="DX4GREY GitHub activity graph"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=DX4GREY&theme=dark&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=00B8FF&currStreakLabel=00FF99&sideLabels=C9D1D9&dates=8B949E"
-    alt="DX4GREY GitHub contribution streak"
-  />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DX4GREY/DX4GREY/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DX4GREY/DX4GREY/output/github-snake.svg" />
-  <img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/DX4GREY/DX4GREY/output/github-snake.svg" />
-</picture>
-
----
-
-## `> connect --open`
-
-<p align="center">
-  <a href="https://t.me/Dx4Grey">
-    <img src="https://img.shields.io/badge/Let's_Talk-Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact DX4GREY on Telegram" />
-  </a>
-  <a href="https://github.com/DX4GREY">
-    <img src="https://img.shields.io/badge/Follow-DX4GREY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow DX4GREY on GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  Open to collaboration, technical discussions, project ideas, and open-source contributions.
-</p>
-
-<details>
-  <summary><b>💳 Support my work</b></summary>
-  <br />
-
-If one of my projects helps you and you want to support future development:
-
-<p align="center">
-  <a href="https://www.paypal.me/dx4grey">
-    <img src="https://img.shields.io/badge/PayPal-Support_DX4GREY-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="Support DX4GREY through PayPal" />
-  </a>
-</p>
-
-**Bitcoin**
-
-```text
-1EnqDkxMUaqVtsvcdxDTGCp4AzoqvzzXR8
-```
-
-**Ethereum**
-
-```text
-0x47f8d3eCF145F933b798D454881e0f04bC73bE54
-```
-
-</details>
-
----
-
-<p align="center">
-  <samp>Keep learning. Keep building. Keep exploring.</samp>
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B2FFF,50:00D4FF,100:00FF99&animation=fadeIn"
-    alt="Animated footer wave"
-  />
-</p>
-      alt="Animated roles: Backend Developer, Linux and Kernel Explorer, Embedded Systems Builder, and Defensive Security Researcher"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DX4GREY?tab=followers">
-    <img src="https://img.shields.io/github/followers/DX4GREY?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=00C896" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/GitHub-DX4GREY-00ff99?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   </a>
   <a href="https://github.com/DX4GREY?tab=repositories">
-    <img src="https://img.shields.io/github/stars/DX4GREY?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&labelColor=0D1117&color=00B8FF" alt="GitHub stars" />
-  </a>
-  <a href="https://t.me/Dx4Grey">
-    <img src="https://img.shields.io/badge/Telegram-Dx4Grey-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @Dx4Grey" />
-  </a>
-  <a href="https://gitforge.ai.studio/">
-    <img src="https://img.shields.io/badge/GitForge-Explore-7B2FFF?style=for-the-badge&logo=github&logoColor=white" alt="GitForge" />
+    <img src="https://img.shields.io/badge/Explore_my_repositories-00ff99?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=161b22" alt="Explore repositories" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DX4GREY&style=flat-square&color=00C896&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
----
-
-## `> whoami`
-
-```yaml
-alias: DX4GREY
-location: Indonesia
-role: Backend / Software Developer
-current_mode: Building, breaking, understanding, improving
-
-interests:
-  - Linux internals and kernel experiments
-  - Embedded systems and RF hardware
-  - Backend, web, and developer tooling
-  - Defensive security research
-  - Open-source collaboration
-```
-
-I like understanding systems below the surface: tracing how Linux behaves, turning hardware ideas into embedded tools, and building software that solves real problems. Most of my work starts as an experiment and grows through testing, iteration, and open-source learning.
-
-<details>
-  <summary><b>⚡ What I'm exploring right now</b></summary>
-  <br />
-
-- Reliable Linux system tooling with safe defaults
-- ESP32-S3 projects, radio analysis, and hardware diagnostics
-- Android kernel behavior, camera stability, and storage health
-- Better developer identity and open-source presentation tools
-
-</details>
-
----
-
-## `> profile --live`
-
-<p align="center">
-  <a href="https://gitforge.ai.studio/">
-    <img
-      width="100%"
-      src="https://gitforge.ai.studio/api/card/profile?username=DX4GREY&theme=gitskins&animate=wave&layout=cyber&github_logo=true"
-      alt="DX4GREY animated GitForge profile card"
-    />
-  </a>
-</p>
-
----
-
-## `> projects --featured`
-
-<p align="center">
-  <a href="https://github.com/DX4GREY/nizaw">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DX4GREY&repo=nizaw&theme=transparent&hide_border=true&title_color=00FF99&text_color=C9D1D9&icon_color=00B8FF&bg_color=0D1117"
-      alt="Nizaw repository card"
-    />
-  </a>
+  <i>Build low-level. Learn deeply. Ship something useful.</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DX4GREY/esp32_rfsuite">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DX4GREY&repo=esp32_rfsuite&theme=transparent&hide_border=true&title_color=00FF99&text_color=C9D1D9&icon_color=00B8FF&bg_color=0D1117"
-      alt="ESP32 RF Suite repository card"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DX4GREY/gitforge">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DX4GREY&repo=gitforge&theme=transparent&hide_border=true&title_color=00FF99&text_color=C9D1D9&icon_color=00B8FF&bg_color=0D1117"
-      alt="GitForge repository card"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DX4GREY/ufs-health">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DX4GREY&repo=ufs-health&theme=transparent&hide_border=true&title_color=00FF99&text_color=C9D1D9&icon_color=00B8FF&bg_color=0D1117"
-      alt="UFS Health repository card"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DX4GREY?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FF99" alt="View all repositories" />
-  </a>
-</p>
-
----
-
-## `> toolbox --expand`
-
-<details open>
-  <summary><b>⌨️ Languages & system programming</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,go,rust,bash,powershell&perline=10" alt="Programming languages" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🌐 Backend, web & data</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,bootstrap,html,css,mysql,sqlite,redis,firebase&perline=8" alt="Backend, web, and data technologies" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🔩 Embedded, platforms & tools</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,linux,docker,cloudflare,git,github,vscode,figma&perline=9" alt="Embedded platforms and development tools" />
-  </p>
-</details>
-
----
-
-## `> github --activity`
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://gitforge.ai.studio/api/card/contributions?username=DX4GREY&theme=gitskins&animate=fade&layout=cyber&github_logo=true"
-    alt="DX4GREY animated GitHub contribution card"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=DX4GREY&theme=dark&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=00B8FF&currStreakLabel=00FF99&sideLabels=C9D1D9&dates=8B949E"
-    alt="DX4GREY GitHub contribution streak"
-  />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DX4GREY/DX4GREY/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DX4GREY/DX4GREY/output/github-snake.svg" />
-  <img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/DX4GREY/DX4GREY/output/github-snake.svg" />
-</picture>
-
----
-
-## `> connect --open`
-
-<p align="center">
-  <a href="https://t.me/Dx4Grey">
-    <img src="https://img.shields.io/badge/Let's_Talk-Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact DX4GREY on Telegram" />
-  </a>
-  <a href="https://github.com/DX4GREY">
-    <img src="https://img.shields.io/badge/Follow-DX4GREY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow DX4GREY on GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  Open to collaboration, technical discussions, project ideas, and open-source contributions.
-</p>
-
-<details>
-  <summary><b>💳 Support my work</b></summary>
-  <br />
-
-If one of my projects helps you and you want to support future development:
-
-<p align="center">
-  <a href="https://www.paypal.me/dx4grey">
-    <img src="https://img.shields.io/badge/PayPal-Support_DX4GREY-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="Support DX4GREY through PayPal" />
-  </a>
-</p>
-
-**Bitcoin**
-
-```text
-1EnqDkxMUaqVtsvcdxDTGCp4AzoqvzzXR8
-```
-
-**Ethereum**
-
-```text
-0x47f8d3eCF145F933b798D454881e0f04bC73bE54
-```
-
-</details>
-
----
-
-<p align="center">
-  <samp>Keep learning. Keep building. Keep exploring.</samp>
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B2FFF,50:00D4FF,100:00FF99&animation=fadeIn"
-    alt="Animated footer wave"
-  />
-</p>
-
-Currently, I'm focusing on personal projects to improve my skills, explore new technologies, and contribute to open-source communities.
-
----
-
-🚀 Featured Interests
-
-🔹 Software Development
-
-- Building applications with modern frameworks
-- Backend & frontend development
-- Automation tools and utilities
-
-🔹 Linux & Kernel
-
-- Linux customization
-- Kernel development experiments
-- System-level programming
-
-🔹 Embedded & IoT
-
-- Arduino / ESP projects
-- Hardware experimentation
-- Microcontroller programming
-
-🔹 Security Research
-
-- Web security concepts
-- Network analysis
-- Learning defensive security practices
-
----
-
-🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,docker,fastapi,firebase,nodejs,python,javascript,c,cpp,java,mysql,flask,flutter,go,linux,powershell,redis,regex,rust,sqlite,react,bootstrap,html,css,vscode,github,figma,git&perline=7"/>
-</p>
-
----
-
-📌 Projects
-
-Here are some projects I'm currently working on:
-
-- 🔧 Personal developer tools
-- 🐧 Linux-based experiments
-- 📱 Android applications
-- ⚡ Embedded system projects
-- 🌐 Web applications
-
-More projects coming soon...
-
----
-
-📊 GitHub Activity
-
-<p align="center">
-  <img src="https://gitforge.ai.studio/api/card/contributions?username=DX4GREY&theme=gitskins&animate=fade&layout=cyber&github_logo=true" />
-</p>
-
----
-
-🌐 Connect With Me
-
-<p align="center"><a href="https://t.me/Dx4Grey">
-<img src="https://img.shields.io/badge/Telegram-Dx4Grey-blue?style=for-the-badge&logo=telegram">
-</a></p>Feel free to reach out for collaboration, discussions, or sharing ideas.
-
----
-
-💳 Support My Work
-
-If my projects help you or you want to support my development journey:
-
-Bitcoin: 1EnqDkxMUaqVtsvcdxDTGCp4AzoqvzzXR8
-Ethereum: 0x47f8d3eCF145F933b798D454881e0f04bC73bE54
-PayPal: https://www.paypal.me/dx4grey
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DX4GREY&color=blue&style=flat-square" />
-</p><p align="center">
-  <i>"Keep learning. Keep building. Keep exploring."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:003b32,70:00ff99,100:0d1117&height=120&section=footer" width="100%" alt="Footer decoration" />
 </p>
