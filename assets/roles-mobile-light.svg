@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="58" viewBox="0 0 360 58" role="img">
+<title>Backend development</title>
+<style>.still { display: none; } @media (prefers-reduced-motion: reduce) { .motion { display: none; } .still { display: inline; } }</style>
+<text x="180" y="31" fill="#087f5b" font-family="monospace" font-size="17" text-anchor="middle">Backend development</text><path class="motion" d="M74 47H286" fill="none" stroke="#087f5b" stroke-width="2" stroke-linecap="round" stroke-dasharray="24 1100"><animate attributeName="stroke-dashoffset" from="1124" to="0" dur="9s" repeatCount="indefinite"/></path>
+</svg>

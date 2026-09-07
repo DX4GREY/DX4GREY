@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="60" viewBox="0 0 160 60" role="img">
+<title>ESP32-S3</title>
+<style>.still { display: none; } @media (prefers-reduced-motion: reduce) { .motion { display: none; } .still { display: inline; } }</style>
+<rect x="1" y="1" width="158" height="58" rx="12" fill="#f6f8fa" stroke="#cbd5e1"/><text x="16" y="33" fill="#1f2328" font-family="monospace" font-size="17" >ESP32-S3</text><path class="motion" d="M16 47H144" fill="none" stroke="#087f5b" stroke-width="2" stroke-linecap="round" stroke-dasharray="24 1100"><animate attributeName="stroke-dashoffset" from="1124" to="0" dur="11s" repeatCount="indefinite"/></path>
+</svg>

@@ -32,7 +32,7 @@ for suffix, (bg, fg, accent, border) in THEMES.items():
               f'<circle cx="16" cy="17" r="3" fill="{accent}"/>'
               f'<text x="29" y="22" fill="{fg}" font-family="monospace" font-size="12">{escape(label)}</text>', width, 34)
     roles = ['Software Developer', 'Linux Enthusiast', 'Kernel Explorer',
-             'Embedded Systems Builder', 'Responsible Security Researcher']
+             'Embedded Systems Builder', 'Security Research Learner']
     body = f'<text class="still" x="350" y="35" text-anchor="middle" fill="{accent}" font-family="monospace" font-size="21">Software Developer</text>'
     for i, role in enumerate(roles):
         values = ['0'] * 6
@@ -91,7 +91,7 @@ for suffix, (bg, fg, accent, border) in THEMES.items():
     for y in range(32, 320, 32):
         for x in range(32, 940, 32):
             body += f'<circle cx="{x}" cy="{y}" r="1" fill="{muted}" opacity=".14"/>'
-    body += text(48, 51, 'D / 04', accent, 13, 'letter-spacing="3"')
+    body += text(48, 51, 'DX / LAB', accent, 13, 'letter-spacing="3"')
     body += text(48, 101, 'SYSTEMS ENGINEERING · CREATIVE CURIOSITY', muted, 12)
     body += text(43, 178, 'DX4GREY', fg, 76, 'font-weight="700" letter-spacing="-4"')
     body += text(377, 178, '.', accent, 76)
@@ -167,3 +167,46 @@ for suffix, (bg, fg, accent, border) in THEMES.items():
                 effect += (f'<rect class="motion" x="{x+20}" y="{y+23}" width="16" height="3" rx="1.5" fill="{accent}">'
                            f'<animate attributeName="width" values="16;72;16" dur="{5+i%3}s" begin="-{i*.6}s" repeatCount="indefinite"/></rect>')
         path.write_text(svg.replace('</svg>', effect+'\n</svg>'))
+
+# Compact artwork keeps lettering legible when the README is viewed on phones.
+for suffix, (bg, fg, accent, border) in THEMES.items():
+    muted = '#91a6b7' if not suffix else '#526477'
+    def compact(body, h):
+        return f'<rect x="1" y="1" width="358" height="{h-2}" rx="18" fill="{bg}" stroke="{border}"/>'+body
+    body = text(24, 38, 'SOFTWARE / HARDWARE', accent, 12)
+    body += text(22, 105, 'DX4GREY', fg, 48, 'font-weight="700"')
+    body += text(24, 140, 'Close to the metal.', muted, 16)+text(24, 165, 'Open to discovery.', muted, 16)
+    body += text(24, 207, 'INDONESIA · OPEN SOURCE', accent, 12)
+    body += tracer('M24 233H336',accent,12)
+    write('hero-mobile',suffix,'DX4GREY — software, hardware, open source',compact(body,256),360,256)
+    body=text(24,35,'dx4grey@lab / exploration',muted,12)
+    for i,(heading,detail) in enumerate([('01 / INSPECT','Understand the internals'),('02 / BUILD','Turn curiosity into code'),('03 / SHARE','Document, test, improve')]):
+        y=78+i*65
+        body+=text(24,y,heading,accent,13)+text(24,y+25,detail,fg,16)
+    body+=tracer('M24 254H336',accent,10)
+    write('terminal-mobile',suffix,'Inspect, build, share — illustrative workflow',compact(body,280),360,280)
+    body=text(180,43,'ALWAYS CURIOUS.',accent,13,'text-anchor="middle"')+text(180,71,'ALWAYS BUILDING.',accent,13,'text-anchor="middle"')
+    for i,line in enumerate(['Build low-level.','Learn deeply.','Ship something useful.']):
+        body+=text(180,111+i*25,line,fg,17,'text-anchor="middle"')
+    body+=tracer('M24 192H336',accent,13)
+    write('footer-mobile',suffix,'Build low-level. Learn deeply. Ship something useful.',compact(body,216),360,216)
+    body=text(180,33,'CODE PLAYGROUND',accent,12,'text-anchor="middle"')
+    for i in range(12):
+        body+=f'<circle cx="{26+i*28}" cy="66" r="4" fill="{accent}" opacity=".2"/>'
+    body+=tracer('M26 66H334',accent,7)
+    body+=text(180,108,'EXPLORE → BUILD → SHARE',fg,14,'text-anchor="middle"')
+    write('playground-mobile',suffix,'Decorative signal animation, not contribution data',compact(body,132),360,132)
+    body=text(180,31,'Backend development',accent,17,'text-anchor="middle"')
+    body+=tracer('M74 47H286',accent,9)
+    write('roles-mobile',suffix,'Backend development',body,360,58)
+    for name,label in [('tech-cpp','C++20'),('tech-linux','Linux'),('tech-esp32','ESP32-S3'),('tech-nrf','nRF24L01+'),('tech-arduino','Arduino')]:
+        body=f'<rect x="1" y="1" width="158" height="58" rx="12" fill="{bg}" stroke="{border}"/>'+text(16,33,label,fg,17)+tracer('M16 47H144',accent,11)
+        write(name,suffix,label,body,160,60)
+    for name,title,lines in [
+        ('focus-systems','SYSTEMS',['Linux customization','Kernel experiments']),
+        ('focus-embedded','EMBEDDED',['Arduino / ESP projects','Hardware experiments']),
+        ('focus-security','SECURITY LEARNING',['Network analysis','Defensive practices'])]:
+        body=text(24,39,title,accent,14)
+        for i,line in enumerate(lines): body+=text(24,78+i*27,line,fg,16)
+        body+=tracer('M24 129H336',accent,12)
+        write(name,suffix,title+' — '+', '.join(lines),compact(body,150),360,150)

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="150" viewBox="0 0 360 150" role="img">
+<title>SYSTEMS — Linux customization, Kernel experiments</title>
+<style>.still { display: none; } @media (prefers-reduced-motion: reduce) { .motion { display: none; } .still { display: inline; } }</style>
+<rect x="1" y="1" width="358" height="148" rx="18" fill="#f6f8fa" stroke="#cbd5e1"/><text x="24" y="39" fill="#087f5b" font-family="monospace" font-size="14" >SYSTEMS</text><text x="24" y="78" fill="#1f2328" font-family="monospace" font-size="16" >Linux customization</text><text x="24" y="105" fill="#1f2328" font-family="monospace" font-size="16" >Kernel experiments</text><path class="motion" d="M24 129H336" fill="none" stroke="#087f5b" stroke-width="2" stroke-linecap="round" stroke-dasharray="24 1100"><animate attributeName="stroke-dashoffset" from="1124" to="0" dur="12s" repeatCount="indefinite"/></path>
+</svg>
