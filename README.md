@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg" />
+    <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
     <img src="assets/hero-light.svg" width="100%" alt="DX4GREY — Systems, Embedded, Security Research; animated orbital banner" />
   </picture>
@@ -11,8 +11,8 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/roles-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="assets/roles-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/roles.svg" />
+    <source media="(max-width: 600px)" srcset="assets/roles-mobile-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/roles.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/roles-light.svg" />
     <img src="assets/roles-light.svg" width="100%" alt="Animated developer interests" />
   </picture>
@@ -56,7 +56,6 @@ systems software, embedded hardware, and responsible security research.
 
 Linux internals · C++ tooling · ESP32 experiments · Open-source software
 
-
 I enjoy exploring how things work under the hood, from Linux processes and
 low-level tooling to embedded hardware and open-source software. I build,
 document, test, and share projects that are useful in the real world.
@@ -64,8 +63,8 @@ document, test, and share projects that are useful in the real world.
 <p align="center">
   <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/terminal-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="assets/terminal-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal.svg" />
+    <source media="(max-width: 600px)" srcset="assets/terminal-mobile-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
     <img src="assets/terminal-light.svg" width="100%" alt="Developer terminal showing the inspect, build, and share workflow with an animated cursor" />
   </picture>
@@ -74,31 +73,25 @@ document, test, and share projects that are useful in the real world.
 ## Areas of exploration
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-systems.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/focus-systems-light.svg" />
-  <img src="assets/focus-systems-light.svg" width="360" alt="Linux customization and kernel experiments" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-embedded.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/focus-embedded-light.svg" />
-  <img src="assets/focus-embedded-light.svg" width="360" alt="Arduino, ESP and hardware experiments" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-security.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/focus-security-light.svg" />
-  <img src="assets/focus-security-light.svg" width="360" alt="Network analysis and defensive security learning" />
-</picture>
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/focus-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/focus-mobile-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/focus-desktop.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/focus-desktop-light.svg" />
+    <img src="assets/focus-desktop-light.svg" width="100%" alt="Linux customization, embedded experiments, and defensive security learning" />
+  </picture>
 </p>
 
 ## Featured projects
 
 <a href="https://github.com/DX4GREY/nizaw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-nizaw.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/project-nizaw-light.svg" />
-    <img src="assets/project-nizaw-light.svg" width="100%" alt="Nizaw — 01 / SYSTEMS EXPLORATION" />
-  </picture>
+    <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-nizaw.svg" />
+      <source media="(max-width: 600px)" srcset="assets/project-nizaw-light.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="assets/project-nizaw-desktop.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/project-nizaw-desktop-light.svg" />
+      <img src="assets/project-nizaw-desktop-light.svg" width="100%" alt="Nizaw — Linux system and CLI framework in C++20" />
+    </picture>
 </a>
 <h3><a href="https://github.com/DX4GREY/nizaw">Nizaw</a></h3>
 <p>Linux system and CLI framework written in C++20.</p>
@@ -115,11 +108,13 @@ document, test, and share projects that are useful in the real world.
   </picture>
 </p>
 <a href="https://github.com/DX4GREY/esp32_rfsuite">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-rf.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/project-rf-light.svg" />
-    <img src="assets/project-rf-light.svg" width="100%" alt="ESP32 RF Suite — 02 / EMBEDDED EXPERIMENTS" />
-  </picture>
+    <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-rf.svg" />
+      <source media="(max-width: 600px)" srcset="assets/project-rf-light.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="assets/project-rf-desktop.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/project-rf-desktop-light.svg" />
+      <img src="assets/project-rf-desktop-light.svg" width="100%" alt="ESP32 RF Suite — ESP32-S3 dual nRF24L01+ RF analyzer" />
+    </picture>
 </a>
 <h3><a href="https://github.com/DX4GREY/esp32_rfsuite">ESP32 RF Suite</a></h3>
 <p>2.4 GHz RF analyzer built around an ESP32-S3 and two nRF24L01+ radios. Features include spectrum scanning, waterfall visualization, channel inspection, event detection, logging, and live hardware diagnostics.</p>
@@ -138,34 +133,14 @@ document, test, and share projects that are useful in the real world.
 
 ## Tech stack
 
-Technologies documented in the public profile and featured project descriptions.
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-cpp.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/tech-cpp-light.svg" />
-  <img src="assets/tech-cpp-light.svg" width="160" alt="C++20" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-linux.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/tech-linux-light.svg" />
-  <img src="assets/tech-linux-light.svg" width="160" alt="Linux" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-esp32.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/tech-esp32-light.svg" />
-  <img src="assets/tech-esp32-light.svg" width="160" alt="ESP32-S3" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-nrf.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/tech-nrf-light.svg" />
-  <img src="assets/tech-nrf-light.svg" width="160" alt="nRF24L01+" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-arduino.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/tech-arduino-light.svg" />
-  <img src="assets/tech-arduino-light.svg" width="160" alt="Arduino" />
-</picture>
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/stack-mobile-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-desktop.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-desktop-light.svg" />
+    <img src="assets/stack-desktop-light.svg" width="100%" alt="C++20, Linux, ESP32-S3, nRF24L01+, Arduino" />
+  </picture>
 </p>
 
 ## GitHub activity
@@ -178,8 +153,8 @@ Explore my [repositories](https://github.com/DX4GREY?tab=repositories) and
 <p align="center">
   <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/playground-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="assets/playground-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/playground.svg" />
+    <source media="(max-width: 600px)" srcset="assets/playground-mobile-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/playground.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/playground-light.svg" />
     <img src="assets/playground-light.svg" width="100%" alt="Decorative animated code grid, not contribution data" />
   </picture>
@@ -203,7 +178,7 @@ Profile details and project descriptions were checked against the
 [public GitHub profile](https://github.com/DX4GREY), including its pinned
 [Nizaw](https://github.com/DX4GREY/nizaw) and
 [ESP32 RF Suite](https://github.com/DX4GREY/esp32_rfsuite) descriptions.
-The animated terminal and code playground are illustrations, not live telemetry.
+The terminal, project diagrams, and code playground are illustrations, not live telemetry.
 
 </details>
 
@@ -229,8 +204,8 @@ The animated terminal and code playground are illustrations, not live telemetry.
 <p align="center">
   <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/footer-mobile.svg" />
-  <source media="(max-width: 600px)" srcset="assets/footer-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg" />
+    <source media="(max-width: 600px)" srcset="assets/footer-mobile-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
     <img src="assets/footer-light.svg" width="100%" alt="Build low-level. Learn deeply. Ship something useful. Animated wave footer." />
   </picture>

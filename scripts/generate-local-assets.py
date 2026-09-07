@@ -210,3 +210,7 @@ for suffix, (bg, fg, accent, border) in THEMES.items():
         for i,line in enumerate(lines): body+=text(24,78+i*27,line,fg,16)
         body+=tracer('M24 129H336',accent,12)
         write(name,suffix,title+' — '+', '.join(lines),compact(body,150),360,150)
+
+# Compose the wide notebook panels last, retaining the compact artwork above.
+import runpy
+runpy.run_path(str(Path(__file__).with_name('desktop-assets.py')), init_globals=globals())
