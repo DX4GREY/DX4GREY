@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="48" viewBox="0 0 960 48" role="img">
+<title>Flowing circuit signal</title>
+<style>.still { display: none; } @media (prefers-reduced-motion: reduce) { .motion { display: none; } .still { display: inline; } }</style>
+<path d="M0 24H960" stroke="#cbd5e1"/><path d="M430 24H448L460 14L472 34L484 14L496 24H530" fill="none" stroke="#087f5b" opacity=".6"/><path class="motion" d="M0 24H960" fill="none" stroke="#2563a6" stroke-width="2" stroke-linecap="round" stroke-dasharray="24 1100"><animate attributeName="stroke-dashoffset" from="1124" to="0" dur="12s" repeatCount="indefinite"/></path>
+</svg>

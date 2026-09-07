@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="34" viewBox="0 0 104 34" role="img">
+<title>C++ / 20</title>
+<style>.still { display: none; } @media (prefers-reduced-motion: reduce) { .motion { display: none; } .still { display: inline; } }</style>
+<rect x=".5" y=".5" width="103" height="33" rx="8" fill="#0d1117" stroke="#243b40"/><circle cx="16" cy="17" r="3" fill="#00ff99"/><text x="29" y="22" fill="#e6edf3" font-family="monospace" font-size="12">C++ / 20</text>
+<path class="motion" d="M12 31H92" fill="none" stroke="#00ff99" stroke-width="2" stroke-linecap="round" stroke-dasharray="24 1100"><animate attributeName="stroke-dashoffset" from="1124" to="0" dur="10s" repeatCount="indefinite"/></path>
+</svg>

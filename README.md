@@ -1,67 +1,125 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:003b32,70:00ff99,100:0d1117&height=210&section=header&text=DX4GREY&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Systems%20%7C%20Embedded%20%7C%20Security%20Research&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="DX4GREY header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+    <img src="assets/hero-light.svg" width="100%" alt="DX4GREY — Systems, Embedded, Security Research; animated orbital banner" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Software+Developer;Linux+Enthusiast;Kernel+Explorer;Embedded+Systems+Builder;Responsible+Security+Researcher" alt="Typing animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/roles.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/roles-light.svg" />
+    <img src="assets/roles-light.svg" alt="Animated developer interests" />
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://github.com/DX4GREY">
-    <img src="https://komarev.com/ghpvc/?username=DX4GREY&color=00ff99&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/profile.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg" />
+      <img src="assets/profile-light.svg" alt="DX4GREY / Open source" />
+    </picture>
   </a>
   <a href="https://github.com/DX4GREY?tab=followers">
-    <img src="https://img.shields.io/github/followers/DX4GREY?style=flat-square&color=00ff99&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/followers.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/followers-light.svg" />
+      <img src="assets/followers-light.svg" alt="Follow on GitHub" />
+    </picture>
   </a>
   <a href="https://github.com/sponsors/DX4GREY">
-    <img src="https://img.shields.io/badge/SPONSOR-00ff99?style=flat-square&labelColor=0d1117&logo=github&logoColor=00ff99" alt="Sponsor DX4GREY" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/sponsor.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/sponsor-light.svg" />
+      <img src="assets/sponsor-light.svg" alt="Sponsor DX4GREY" />
+    </picture>
   </a>
 </p>
 
----
+<p align="center">
+  <a href="#whoami">About</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#tech-stack">Stack</a> ·
+  <a href="#github-activity">Activity</a> ·
+  <a href="#connect">Connect</a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/signal-light.svg" />
+  <img src="assets/signal-light.svg" width="100%" alt="Animated circuit signal divider" />
+</picture>
 
 ## `whoami`
 
-```yaml
-name: DX4GREY
-location: Indonesia
-role: Software Developer
+**Software developer based in Indonesia.** I explore the space between
+systems software, embedded hardware, and responsible security research.
 
-interests:
-  - Linux internals and systems programming
-  - C++ development and developer tools
-  - Embedded systems and ESP32 projects
-  - Responsible security research
-  - Open-source software
+Linux internals · C++ tooling · ESP32 experiments · Open-source software
 
-currently_exploring:
-  - Building reliable tools that stay close to the system
-  - Hardware and radio experimentation
-  - Making complex technology easier to understand
-```
 
 I enjoy exploring how things work under the hood, from Linux processes and
 low-level tooling to embedded hardware and open-source software. I build,
 document, test, and share projects that are useful in the real world.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
+    <img src="assets/terminal-light.svg" width="100%" alt="Developer terminal showing the inspect, build, and share workflow with an animated cursor" />
+  </picture>
+</p>
 
 ## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/DX4GREY/nizaw">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/project-nizaw.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="assets/project-nizaw-light.svg" />
+          <img src="assets/project-nizaw-light.svg" width="100%" alt="Nizaw — 01 / SYSTEMS EXPLORATION" />
+        </picture>
+      </a>
       <h3><a href="https://github.com/DX4GREY/nizaw">Nizaw</a></h3>
       <p>Read-only Linux system inspection framework for understanding processes, system state, and runtime information.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-20-00ff99?style=flat-square&labelColor=0d1117" alt="C++20" />
-        <img src="https://img.shields.io/badge/Linux-native-00ff99?style=flat-square&labelColor=0d1117" alt="Linux native" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/cpp.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="assets/cpp-light.svg" />
+          <img src="assets/cpp-light.svg" alt="C++20" />
+        </picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/linux.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="assets/linux-light.svg" />
+          <img src="assets/linux-light.svg" alt="Linux native" />
+        </picture>
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/DX4GREY/esp32_rfsuite">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/project-rf.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="assets/project-rf-light.svg" />
+          <img src="assets/project-rf-light.svg" width="100%" alt="ESP32 RF Suite — 02 / EMBEDDED EXPERIMENTS" />
+        </picture>
+      </a>
       <h3><a href="https://github.com/DX4GREY/esp32_rfsuite">ESP32 RF Suite</a></h3>
       <p>ESP32-S3 toolkit for legal 2.4 GHz radio monitoring, channel analysis, and embedded experimentation.</p>
       <p>
-        <img src="https://img.shields.io/badge/ESP32--S3-00ff99?style=flat-square&labelColor=0d1117" alt="ESP32-S3" />
-        <img src="https://img.shields.io/badge/Embedded-C%2B%2B-00ff99?style=flat-square&labelColor=0d1117" alt="Embedded C++" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/esp32.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="assets/esp32-light.svg" />
+          <img src="assets/esp32-light.svg" alt="ESP32-S3" />
+        </picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/embedded.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="assets/embedded-light.svg" />
+          <img src="assets/embedded-light.svg" alt="Embedded C++" />
+        </picture>
       </p>
     </td>
   </tr>
@@ -70,29 +128,33 @@ document, test, and share projects that are useful in the real world.
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,cmake,linux,bash,git,github,arduino,android,vscode&theme=dark" alt="Technology stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/tech-stack-light.svg" />
+    <img src="assets/tech-stack-light.svg" width="100%" alt="C++, Python, CMake, Linux, Bash, Git, GitHub, Arduino, Android, VS Code" />
+  </picture>
 </p>
 
-## GitHub stats & activity
+## GitHub activity
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=DX4GREY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99" width="100%" alt="GitHub statistics" />
-    </td>
-    <td width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DX4GREY&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" width="100%" alt="Most used languages" />
-    </td>
-  </tr>
-</table>
+Explore my [repositories](https://github.com/DX4GREY?tab=repositories) and
+[contribution history](https://github.com/DX4GREY?tab=overview) on GitHub.
+
+### Code playground
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DX4GREY&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="70%" alt="GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/playground.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/playground-light.svg" />
+    <img src="assets/playground-light.svg" width="100%" alt="Decorative animated code grid, not contribution data" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DX4GREY&theme=github_dark" width="100%" alt="GitHub profile details and contribution activity" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/signal-light.svg" />
+  <img src="assets/signal-light.svg" width="100%" alt="Animated circuit signal divider" />
+</picture>
 
 ## Support open source
 
@@ -101,7 +163,11 @@ helps fund testing, documentation, hardware experiments, and future releases.
 
 <p align="center">
   <a href="https://github.com/sponsors/DX4GREY">
-    <img src="https://img.shields.io/badge/Become_a_GitHub_Sponsor-00ff99?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=161b22" alt="Become a GitHub Sponsor" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/support.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/support-light.svg" />
+      <img src="assets/support-light.svg" alt="Become a GitHub Sponsor" />
+    </picture>
   </a>
 </p>
 
@@ -109,17 +175,25 @@ helps fund testing, documentation, hardware experiments, and future releases.
 
 <p align="center">
   <a href="https://github.com/DX4GREY">
-    <img src="https://img.shields.io/badge/GitHub-DX4GREY-00ff99?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/github.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/github-light.svg" />
+      <img src="assets/github-light.svg" alt="GitHub" />
+    </picture>
   </a>
   <a href="https://github.com/DX4GREY?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_my_repositories-00ff99?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=161b22" alt="Explore repositories" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/repositories.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/repositories-light.svg" />
+      <img src="assets/repositories-light.svg" alt="Explore repositories" />
+    </picture>
   </a>
 </p>
 
 <p align="center">
-  <i>Build low-level. Learn deeply. Ship something useful.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:003b32,70:00ff99,100:0d1117&height=120&section=footer" width="100%" alt="Footer decoration" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+    <img src="assets/footer-light.svg" width="100%" alt="Build low-level. Learn deeply. Ship something useful. Animated wave footer." />
+  </picture>
 </p>

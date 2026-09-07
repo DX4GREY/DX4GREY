@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="34" viewBox="0 0 152 34" role="img">
+<title>EMBEDDED / C++</title>
+<style>.still { display: none; } @media (prefers-reduced-motion: reduce) { .motion { display: none; } .still { display: inline; } }</style>
+<rect x=".5" y=".5" width="151" height="33" rx="8" fill="#f6f8fa" stroke="#cbd5e1"/><circle cx="16" cy="17" r="3" fill="#087f5b"/><text x="29" y="22" fill="#1f2328" font-family="monospace" font-size="12">EMBEDDED / C++</text>
+<path class="motion" d="M12 31H140" fill="none" stroke="#087f5b" stroke-width="2" stroke-linecap="round" stroke-dasharray="24 1100"><animate attributeName="stroke-dashoffset" from="1124" to="0" dur="10s" repeatCount="indefinite"/></path>
+</svg>
